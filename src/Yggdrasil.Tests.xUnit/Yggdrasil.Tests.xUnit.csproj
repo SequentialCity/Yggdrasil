@@ -24,4 +24,8 @@
     <Folder Include="World\Node\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Yggdrasil.World\Yggdrasil.World.csproj" />
+  </ItemGroup>
+
 </Project>

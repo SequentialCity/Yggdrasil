@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yggdrasil.World", "Yggdrasi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yggdrasil.Tests.xUnit", "Yggdrasil.Tests.xUnit\Yggdrasil.Tests.xUnit.csproj", "{01BA2006-7820-4557-BE68-11FCF28FAA3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yggdrasil.HTTP", "Yggdrasil.HTTP\Yggdrasil.HTTP.csproj", "{AEF96165-4BF2-4F41-9FAC-6D1FE9D850FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{01BA2006-7820-4557-BE68-11FCF28FAA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01BA2006-7820-4557-BE68-11FCF28FAA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01BA2006-7820-4557-BE68-11FCF28FAA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF96165-4BF2-4F41-9FAC-6D1FE9D850FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF96165-4BF2-4F41-9FAC-6D1FE9D850FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF96165-4BF2-4F41-9FAC-6D1FE9D850FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF96165-4BF2-4F41-9FAC-6D1FE9D850FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
